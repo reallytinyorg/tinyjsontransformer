@@ -1,7 +1,5 @@
 # tiny JSON Transformer
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-
 tiny JSON Transformer is an npm package for transforming JSON data based on a provided mapping. It allows you to easily rename keys in a JSON object according to a predefined mapping, inspired by how Go handles JSON.
 
 ## Installation
