@@ -1,8 +1,8 @@
 {
   "name": "tinyjsontransformer",
-  "version": "1.1.0",
+  "version": "1.2.2",
   "description": "",
-  "main": "src/index.ts",
+  "main": "dist/index.js",
   "scripts": {
     "test": "jest"
   },
@@ -26,6 +26,5 @@
       "node"
     ],
     "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.(jsx?|tsx?)$"
-  },
-  "type": "module"
+  }
 }
