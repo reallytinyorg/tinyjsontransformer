@@ -47,6 +47,13 @@ console.log(transformedData);
 }
 ```
 
+### Todo
+
+- [x] Add tests workflow on PR
+- [ ] Add semantic-release for automated version management
+- [ ] Add release status
+- [ ] Add generic return type, so that user has control over mapped type
+
 ## Author
 
 Aobakwe
